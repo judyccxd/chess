@@ -1,13 +1,13 @@
 # chess is a game that is coded using c++. 
 # Display:
   8 rnbqkbnr<br />
-  7 pppppppp
-  6 _ _ _ _
-  5 _ _ _ _
-  4 _ _ _ _
-  3 _ _ _ _
-  2 PPPPPPPP
-  1 RNBQKBNR
+  7 pppppppp<br />
+  6 _ _ _ _<br />
+  5 _ _ _ _<br />
+  4 _ _ _ _<br />
+  3 _ _ _ _<br />
+  2 PPPPPPPP<br />
+  1 RNBQKBNR<br />
   abcdefgh
 # The rules are:
 There are 2 kinds of player human and computer. Player can choose human vs. human, human vs. computer, and computer vs. computer.
