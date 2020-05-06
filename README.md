@@ -1,6 +1,6 @@
 # chess is a game that is coded using c++. 
 # Display:
-  8 rnbqkbnr\n
+  8 rnbqkbnr<br />
   7 pppppppp
   6 _ _ _ _
   5 _ _ _ _
