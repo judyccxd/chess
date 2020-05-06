@@ -26,10 +26,9 @@ Computer players should operate at one of several difficulty levels:
   5. Pawn promotion would additionally specify the piece type to which the pawn is promoted: move e7 e8 Q.
   6. In the case of a computer player, the command move (without arguments) makes the computer player make a move.
   7. setup enters setup mode:
-     - + K e1 places the piece K (i.e., white king in this case) on the square e1. If a piece is already on that square, it is 
-     replaced. The board should be redisplayed.
-     - - e1 removes the piece from the square e1 and then redisplays the board. If there is no piece at that square, take no 
-     action.
+     - using + K e1 places the piece K (i.e., white king in this case) on the square e1. If a piece is already on that square,        it is replaced. The board should be redisplayed.
+     - using - e1 removes the piece from the square e1 and then redisplays the board. If there is no piece at that square,  
+       take no action.
      - = colour makes it colour's turn to go next.
      - done leaves setup mode.
 # Scoring:
